@@ -16,7 +16,9 @@ const ProductContext = ({ children }) => {
       isAdded: false,
       isVisible: false,
       quantity: 1,
+      color: {colorName: "red"}
     },
+
 
     {
       id: 2,

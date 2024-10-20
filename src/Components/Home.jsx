@@ -136,7 +136,7 @@ const Home = () => {
           </div>
           <input 
             onChange={handleSearch} 
-            className='w-[40vw] h-full rounded bg-zinc-100 outline-none' 
+            className='w-[40vw] h-full rounded bg-zinc-100 pr-2 outline-none' 
             type="search" 
             placeholder='Search' 
           />
